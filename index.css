@@ -1,7 +1,7 @@
 body {
   width:100%;
   margin:auto;
-  background-color: #fff05e
+  background-color: #ffffff;
 }
 
 .container {
@@ -10,7 +10,7 @@ body {
 }
 
 #header {
-  background-color: #aca4a4;
+  background-color: #00f9ff;
   width: 100%;
   top:0;
   position:fixed;
@@ -23,7 +23,7 @@ body {
 #logo>h1>a{
   font-family: fantasy;
   text-decoration: none;
-  color: #bd2d2d;
+  color: #ff0000;
 }
 
 #nav {
@@ -38,7 +38,7 @@ body {
 }
 
 li>a {
-  color: #bd2d2d;
+  color: #ff0000;
   text-decoration: none;
   font-family: fantasy;
 }

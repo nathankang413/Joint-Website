@@ -1,6 +1,7 @@
 body {
   width:100%;
   margin:auto;
+  background-color: #ffffff;
 }
 
 h2 {
@@ -13,7 +14,7 @@ h2 {
 }
 
 #header {
-  background-color: #3e3e3e;
+  background-color: #00f9ff;
   width: 100%;
   top:0;
   position:fixed;
@@ -26,7 +27,7 @@ h2 {
 #logo>h1>a{
   font-family: fantasy;
   text-decoration: none;
-  color: #0078ff;
+  color: #ff0000;
 }
 
 #nav {
@@ -41,7 +42,7 @@ h2 {
 }
 
 li>a {
-  color: #0078ff;
+  color: #ff0000;
   text-decoration: none;
   font-family: fantasy;
 }
